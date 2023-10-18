@@ -15,6 +15,11 @@ dependencies:
   google_fonts:
   rename:
   path_provider:
+  get:
+  provider:
+  get_storage:
+  getwidget:
+  just_audio: ^0.9.35
 
 dev_dependencies:
   flutter_test:
